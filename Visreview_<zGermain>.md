@@ -4,4 +4,4 @@ The plot is clear, there are no ambiguities about what the elements are represen
 # FBB 
 the review is thoughtful and on point, good idea on the log plot though it would make the difference less obvious, so it kind of depends on which effect you want to provoke. but you were asked to include the plot in the revie markdown
 
-70%
+85%
